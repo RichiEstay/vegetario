@@ -1,0 +1,26 @@
+.centrar{
+    align-items: center;
+justify-content: center;
+display: flex;
+}
+
+.colorNav{
+    background-color: #6dccaa;
+    color: white;
+}
+#vegan {
+ 
+    background-color: #6dccaa;
+    
+}
+#vegan img{
+    width: 50%;
+    height: 50%;
+    
+    
+}
+.tamImag{
+
+width: 30%;
+height: auto;
+}
