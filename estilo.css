@@ -21,6 +21,14 @@ display: flex;
 }
 .tamImag{
 
-width: 30%;
+width: 30px !important;
 height: auto;
+}
+.coaching{
+   
+    height: 800px;
+}
+.tamFrutas{
+    width: 150px;
+    height: auto;
 }
