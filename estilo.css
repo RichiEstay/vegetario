@@ -16,8 +16,6 @@ display: flex;
 #vegan img{
     width: 50%;
     height: 50%;
-    
-    
 }
 .tamImag{
 
@@ -27,8 +25,11 @@ height: auto;
 .coaching{
    
     height: 800px;
+    justify-content: center;
 }
 .tamFrutas{
     width: 150px;
     height: auto;
 }
+
+.par{width: 80%;}
