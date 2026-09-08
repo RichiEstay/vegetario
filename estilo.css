@@ -54,3 +54,10 @@ body{
     margin: 0;
     padding: 0;
 }
+.winkel{
+    height: 500px;
+   background-color: rgb(234, 231, 227);
+}
+.negrita{
+    font-weight: bold;
+}
